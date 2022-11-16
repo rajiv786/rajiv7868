@@ -19,9 +19,9 @@ export const projects = [
   },
   {
     title: 'Youtube Clone Using React Js',
-    description: "This is a code repository for the corresponding YouTube clone app. In this tutorial, we're going to build and deploy a React Video Chat Application using Socket IO.",
+    description: "This is a code repository for the corresponding YouTube clone app. In this we have build and deploy a youtube clone Application using Netlify and axios for fetching data from RapidAPI",
       image: 'https://drive.google.com/uc?id=1ZJM_ONEmXejG66cdcqVzDnyhqLjyGJBr',
-      tags: ['React', 'YoutubeClone'],
+      tags: ['React', 'YoutubeClone','RapidAPI'],
     source: 'https://github.com/rajiv786/youtubeclone',
     visit: 'https://youtubeclonerajiv.netlify.app/',
     id: 2,
